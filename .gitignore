@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+.idea
+*.env
+*env
+*.session
+*.session*
+/venv/
+run_local_bot.sh
+notebooks
